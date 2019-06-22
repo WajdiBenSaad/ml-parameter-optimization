@@ -3,7 +3,7 @@
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://twitter.com/wajdi_bs) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://twitter.com/wajdi_bs)  [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://twitter.com/wajdi_bs)
 
 
-Hyperparameter optimization for machine learning algorithms.
+Hyperparameter optimization for machine learning algorithms
 
 ## Getting started
 
